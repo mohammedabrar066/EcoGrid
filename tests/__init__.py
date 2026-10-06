@@ -1,0 +1,1 @@
+"""EcoGrid automated tests."""
